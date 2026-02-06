@@ -1,6 +1,6 @@
 #  Mi Primer Repositorio
 
-**Nombre:** [Tu nombre]  
+**Nombre:** Francisco Díaz 
 
 **Bootcamp:** Data Analyst  
 
